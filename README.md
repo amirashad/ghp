@@ -16,3 +16,4 @@ Add to your environment path: GITHUB_TOKEN={token-created-with-github-ui}
 ## Example
 To add protection to repo's branch: 
 <pre>ghp --org Some-Org --operation add --repos "repo1 repo2" --branches "develop master" --protection "security/snyk - Dockerfile (...), security/snyk - build.gradle (...)"</pre>
+
