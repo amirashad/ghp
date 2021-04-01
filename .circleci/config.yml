@@ -51,4 +51,4 @@ workflows:
             - validate
           filters:
             branches:
-              only: master
+              only: main
